@@ -1,6 +1,0 @@
-﻿  MatrixCalc.cpp
-E:\code\vs_proj\THI_PRV\THI_PRV_lab1\MatrixCalc.cpp(98,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\code\vs_proj\THI_PRV\THI_PRV_lab1\MatrixCalc.cpp(99,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  THI_PRV_lab1.vcxproj -> E:\code\vs_proj\THI_PRV\THI_PRV_lab1\x64\Debug\THI_PRV_lab1.exe
-  "pwsh.exe" не является внутренней или внешней
-  командой, исполняемой программой или пакетным файлом.
